@@ -54,8 +54,15 @@ body{
 .texto button{
     padding: 13px 50px;
     border-radius: 25px;
+    
+}
+
+.texto a:hover button{
     background-color: hsl(300, 69%, 71%);
-    color: #fff;
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+    
 }
 
 
@@ -76,5 +83,13 @@ body{
     justify-content: center;
     margin-left: 10px;
    
+}
+
+.rede-sociais a:hover{
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+    transition: 0.3s;
+    cursor: pointer;
+    transform: scale(1.07);
 }
 
