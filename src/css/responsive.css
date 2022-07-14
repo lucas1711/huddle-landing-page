@@ -1,0 +1,27 @@
+@media(max-width:1440px){
+    .hero-img img{
+        width: 100%;
+    }
+}
+
+
+@media(max-width:768px){
+    .main{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .texto h1{
+        font-size: 26px;
+    }
+
+    
+    .texto button{
+        margin-bottom: 40px;
+    }
+
+    .rede-sociais{
+        display: inline-block;
+        text-align: center;
+    }
+}
