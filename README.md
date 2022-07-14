@@ -14,3 +14,7 @@ Desafio de criação de uma landing page do Front End Mentor
 ✔ HTML
 
 ✔ CSS
+
+
+## Deploy do Huddle Landing page
+https://lucas1711.github.io/huddle-landing-page/
